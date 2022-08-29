@@ -1,0 +1,29 @@
+header {
+    background-image: url("./img/pattern.png");
+}
+
+.logo {
+    width: 200px;
+}
+
+h1 {
+    font-size: 50px;
+    margin: auto;
+}
+
+#h2 {
+    font-size: 20px;
+    color: gray;
+    margin:auto
+    
+}
+
+#p {
+    color: gray;
+    font-size: 15px;
+    margin-top: 0px;
+}
+
+#boolean {
+    color: lightblue;
+}
