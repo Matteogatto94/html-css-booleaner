@@ -31,3 +31,7 @@ h1 {
 #testo_evidenziato {
     background-color: yellow;
 }
+
+#lista {
+    padding-left: 15px;
+}
