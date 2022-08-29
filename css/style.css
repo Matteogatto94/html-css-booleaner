@@ -1,37 +1,76 @@
-header {
-    background-image: url("./img/pattern.png");
+header {  
+    margin: 0;
+    background-image: url(../img/pattern.png);
+    background-color: #006cfa;
 }
 
-.logo {
+#logo {
     width: 200px;
+    margin: 30px 4px 7px 10px;
+
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 40px;
     margin: auto;
 }
 
-#h2 {
-    font-size: 20px;
-    color: gray;
-    margin:auto
-    
+.autore {
+    color: grey;
+    font-size: 14px;
+    margin: 0;
 }
-
-#p {
-    color: gray;
-    font-size: 15px;
-    margin-top: 0px;
-}
-
 #boolean {
-    color: lightblue;
+    color: #00c8fa;
 }
 
-#testo_evidenziato {
-    background-color: yellow;
+.evidenziatore {
+    background-color: yellow;;
 }
 
-#lista {
-    padding-left: 15px;
+.lista {
+    padding-left: 10px;
+}
+
+table {
+    width: 1100px;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+thead {
+    color: white;
+    background-color: aqua;
+}
+
+.table_blue {
+    background-color: lightblue;
+}
+
+td {
+    width: calc(100%/3);
+}
+
+h3 {
+    color: gray;
+}
+
+.img {
+    width: 250px;
+    height: 250px;
+    ;
+}
+
+#monitor {
+    background-image: url(../img/monitor.jpg);
+}
+
+#grafico {
+    background-image: url(../img/graph.jpg);
+}
+
+.testo_foto {
+    padding: 15px;
+    color: white;
+    font-weight: 800;
 }
