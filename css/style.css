@@ -27,3 +27,7 @@ h1 {
 #boolean {
     color: lightblue;
 }
+
+#testo_evidenziato {
+    background-color: yellow;
+}
